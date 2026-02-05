@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Srivarna resume">
+  <title>My Resume</title>
+  </head>
+  <style>
+    .resume{
+        background:white;
+        font-family:inherit;
+        border: 3px solid grey;
+        padding:20px;
+        width: 50%;
+        margin: auto;
+    }
+    h1{
+      text-align: center;
+    }
+  </style>
+  <body>
+    <div class="resume">
+    <h1><i>Resume</i></h1><hr>
+    <p><b>Name:</b>Yasani Srivarna</p><hr>
+    <p><b>Career Objectives:</b> Motivated 3rd-year B.Tech student with a strong interest in frontend development, seeking an internship opportunity to apply HTML, CSS, and JavaScript skills in real-world projects and gain industry experience.</p><hr>
+    <p><b>Education:</b>Btech 3rd year</p><hr>
+    <p><b>skills:</b></p>
+    <ul type="square">
+      <li>Frontend: HTML5, CSS3, JavaScript (Basics)</li>
+      <li>Tools: VS Code, GitHub</li>
+      <li>Concepts: Responsive Design, Semantic HTML, Forms, Tables</li>
+    </ul><hr>
+    <p><b>Experience:</b> Fresher</p><hr>
+    <p><b>Projects:</b></p>
+    <p><li>Resume Page:
+  Built a responsive resume using HTML & CSS with structured sections and clean layout.
+    </p>
+    <p><li>Personal Profile Website:
+Built a personal profile website using HTML and CSS to showcase personal
+information and layout design.</p>
+
+<p><li>Hobbies HTML Project:
+Created a simple webpage describing hobbies using semantic HTML elements.</p>
+
+<p><li>HTML Form Project:
+Designed a functional HTML form using input fields, labels, and form structure.</p>
+
+<p><li>HTML & CSS Table Project:
+Developed styled tables using HTML and CSS to practice layout and design
+concepts.</p><hr>
+<p><b>Contact:</b></p>
+<p><b>Phone Number:</b>7674861309</p>
+<p><b>email:</b><a href="mailto:srivarnaaayasani@gmail.com">srivarnaaayasani@gmail.com</a></p>
+  <p><b>Github:</b><a href="https://github.com/srivarnaaayasani-ux"target=_blank>srivarnaaayasani-ux</a></p><hr>
+  </div>
+  </body>
+   </html>
